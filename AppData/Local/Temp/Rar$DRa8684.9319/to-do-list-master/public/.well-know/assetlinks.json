@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.vercel.to_do_list_beta_weld.twa",
+      "sha256_cert_fingerprints":
+        ["BA:5C:78:A6:58:62:60:60:D5:E8:07:CF:75:F0:E8:02:C4:CC:31:1B:DC:CA:D8:2D:CA:9E:36:28:BF:4F:91:55"]
+    }
+  }
+]
